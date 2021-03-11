@@ -1,0 +1,32 @@
+body {
+    background-color: #1a1a1a;
+
+}
+
+h1 {
+    position: relative;
+    left: 850px;
+    bottom: -30px;
+    word-wrap: break-word;
+}
+b {
+    letter-spacing: normal;
+    position: relative;
+    left: 10px;
+    line-height: 1.5;
+    white-space: pre;
+    font-size: 22px;
+}
+i {
+    letter-spacing: normal;
+    position: relative;
+    left: 280px;
+    line-height: 1.5;
+    white-space: pre;
+    font-size: 22px;
+}
+.mid-center { 
+    top: 120%; 
+    left: 53%; 
+    transform: translateX(-50%) translateY(-50%); 
+} 

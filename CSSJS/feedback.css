@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-family:'Quicksand', sans-serif;
+    position: relative;
+    left: 850px;
+    bottom: -5px;
+    width: 1000px;
+}
+p {
+  margin-left: 30px;
+}
+.form-group{
+    padding-left:3%;
+    padding-right:3%;
+    font-family:'Quicksand', sans-serif;
+}
